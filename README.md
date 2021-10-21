@@ -1,0 +1,2 @@
+# table_line_pytorch
+chineseocr/table_line 表格线检测模型pytorch版
